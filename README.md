@@ -25,7 +25,8 @@ Corsi, A., Mueller Loose, S., & Lockshin, L. (2012). The sales impact of regiona
 
 
   # Data description
-Data for each visualization can be accessed in the Github Repo as .xlsx files ("StateAndCategory (1).xlsx" and "NationalTotalAndSubcategory (1).xlsx")
+Data for each visualization can be accessed via the link below in the Github Repo as .xlsx files ("StateAndCategory (1).xlsx" and "NationalTotalAndSubcategory (1).xlsx")
+https://github.com/cedrichamilton/MGT4250-Fall-2023-Course-Project/blob/49faa84bcd3eefd872413e1bf20ab04e6f2d8a1d/StateAndCategory%20(1).xlsx
 
 The first dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download "StateAndCategory (1).xlsx" with the following columns:
 
