@@ -10,7 +10,7 @@ Link to visualization application: https://public.tableau.com/views/MGT4250-Fall
 - How do sales of products vary across different regions?
 - What external factors (like weather, holidays, or local events) influence these regional sales patterns?
 
-## Reasoning:
+### Reasoning:
 Understanding regional sales patterns is extremely important to businesses, as it directly influences inventory management, marketing strategies, and supply chain logistics. Regions experiencing higher sales may require increased stock, while those with lower sales may signal the need for targeted marketing campaigns or a reevaluation of product-market fit. Furthermore, acknowledging the impact of external factors enables anticipatory business strategies, ultimately optimizing sales and enhancing customer satisfaction. Weather conditions can significantly affect the sales of seasonal products; a cold wave may drive up heater sales in one region, while a heatwave could boost air conditioner sales in another. Additionally, holidays, deeply rooted in regional cultures and traditions, exert a substantial influence on sales spikes. For instance, the Chinese New Year can result in a surge in sales in East Asia, while Black Friday has a significant impact on sales in North America. Furthermore, local events such as festivals, sports events, or conventions can lead to temporary sales boosts. Understanding these regional sales patterns and the external factors that shape them is essential for businesses to accurately forecast demand, manage inventory, and tailor their marketing efforts effectively.
 
 References:
