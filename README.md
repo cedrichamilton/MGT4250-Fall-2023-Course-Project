@@ -43,15 +43,15 @@ The second dataset comes directly from “www.ers.usda.gov/data-products/weekly-
 # Interpreting Visualizations
 ![Dashboard 1](https://github.com/cedrichamilton/MGT4250-Fall-2023-Course-Project/assets/152214811/95b9e17b-8704-4a18-86f1-153f60fa8e6c)
 
-## Heatmap of Regional Sales
+### Heatmap of Regional Sales
 Description: A heatmap depicting sales volume across different regions. Darker shades indicate higher sales, and lighter shades show regions with fewer sales. This is used to answer our question by giving insights to sales per region broken down by states to see more or less sales by color. (Lighter green indicates less sales and darker blue indicates lots of sales).
 Interactivity: Hover over a region to see exact sales numbers.
 
-Visualization 2: Horizontal Bar Chart Total Unit Sales Per Category 
+### Horizontal Bar Chart of Total Unit Sales Per Category 
 Description: A multi-line chart where each line represents sales trends over time for a specific region.
 Interactivity: Toggle between different regions. Zoom in/out for detailed views of specific timeframes. This provides insight to our question by showing a visual on each category's sales in North America as a whole. By being able to see this is a grand view for North America we can have a rough sense of what sells well all over the country and what doesn't, without the breakdown by region or state.   
 
-Visualization 3: External Factors Influence Bar Graph
+### External Factors Influence Bar Graph
 Description: A grouped bar graph showing sales spikes (or dips) during specific external events like holidays, weather events, or local festivals. Wen breaking down the total sales per month by state we can differentiate each months sales by state giving double leverage into finding our more to our question and seeing if it can articulate answers around external factors that may exist for each state and month in that state. 
 Interactivity: Filter by event type or by region.
 
