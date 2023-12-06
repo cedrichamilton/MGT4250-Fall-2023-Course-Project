@@ -25,9 +25,10 @@ Corsi, A., Mueller Loose, S., & Lockshin, L. (2012). The sales impact of regiona
 
 
   # Data description
-Data for each visualization can be accessed in the Github Repo as .xls files ("StateAndCategory (1).xlsx" and
+Data for each visualization can be accessed in the Github Repo as .xlsx files ("StateAndCategory (1).xlsx" and "NationalTotalAndSubcategory (1).xlsx")
 
 The first dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download excel files with the following columns:
+
 1. Date: Week ending
 2. State: State
 3. Category: Food category
@@ -41,6 +42,27 @@ The first dataset comes directly from “www.ers.usda.gov/data-products/weekly-r
 11. Percent change units 1 year: Change in units sold of any size since same week last year, as a percent of last year's units sold
 
 The second dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download excel files with the following columns:
+
+1. Date: Week ending
+2. Category: Food category
+3. Subcategory: Food subcategory
+4. Dollars: Total value of sales
+5. Dollars last year: Total value of sales, same week last year
+6. Dollars 3 years ago: Total value of sales, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+7. Unit sales: Total units sold, any size
+8. Unit sales last year: Total units sold, any size, same week last year
+9. Unit sales 3 years ago: Total units sold, any size, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+10. Share: Category share of total dollar sales
+11. Share last year: Category share of total dollar sales, same week last year
+12. Share 3 years ago: Category share of total dollar sales, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+13. Percent change dollars 1 year: Change in sales value since same week last year, as a percent of last year's sales value
+14. Percent change units 1 year: Change in units sold of any size since same week last year, as a percent of last year's units sold
+15. Percent change share 1 year: Change in share since same week last year, as a percent of last year's share
+16. Percent change dollars 3 years: Change in sales value since same week 3 years ago, as a percent of sales value 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+17. Percent change units 3 years: Change in units sold of any size since same week 3 years ago, as a percent of units sold 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+18. Percent change share 3 years: Change in share since same week 3 years ago, as a percent of share 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+
+
 
 # Interpreting Visualizations
 ![Dashboard 1](https://github.com/cedrichamilton/MGT4250-Fall-2023-Course-Project/assets/152214811/95b9e17b-8704-4a18-86f1-153f60fa8e6c)
