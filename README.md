@@ -92,7 +92,7 @@ Interactivity: Hover over bars to see exact sales numbers.
 Article:
 https://www.sciencedirect.com/science/article/abs/pii/S0143622823001650
 
-Article Summary:
+####Article Summary:
 This study compares, using geostatistical analysis and spatial regression, the trade area composition of typical supermarkets and specialist food chains in the United States. Along with demographics, it focuses on customer lifestyles and the competitive environment. The results indicate that specialist grocery stores are more likely to be found in locations with a greater proportion of people who commute by bicycle or foot, as well as a larger concentration of health and fitness facilities. Furthermore, compared to regular supermarkets, specialist food stores are more likely to be situated in trade areas with higher levels of competition. Grocery companies, urban planners, and shopping center developers can all benefit from these findings' practical implications.
 
 GPT-4 Query:
