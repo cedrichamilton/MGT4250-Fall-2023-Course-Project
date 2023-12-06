@@ -6,7 +6,9 @@ Author: Max Tarricone, mtarricone@elon.edu
 # Project Description
 This repo is for the class project of MGT 4250 Fall 2023 at Elon University
 
-Link to Tableau Public visualization application: https://public.tableau.com/views/MGT4250-Fall-2023-Course-Project/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Link to Tableau Public visualization application:
+
+https://public.tableau.com/views/MGT4250-Fall-2023-Course-Project/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ### Questions of interest:
 - How do sales of products vary across different regions?
