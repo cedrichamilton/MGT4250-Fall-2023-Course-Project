@@ -43,7 +43,7 @@ The second dataset comes directly from “www.ers.usda.gov/data-products/weekly-
 ## Interpreting Visualizations
 ![Dashboard 1](https://github.com/cedrichamilton/MGT4250-Fall-2023-Course-Project/assets/152214811/95b9e17b-8704-4a18-86f1-153f60fa8e6c)
 
-Visualization 1: Heatmap of Regional Sales
+# Heatmap of Regional Sales
 Description: A heatmap depicting sales volume across different regions. Darker shades indicate higher sales, and lighter shades show regions with fewer sales. This is used to answer our question by giving insights to sales per region broken down by states to see more or less sales by color. (Lighter green indicates less sales and darker blue indicates lots of sales).
 Interactivity: Hover over a region to see exact sales numbers.
 
