@@ -23,7 +23,7 @@ C+R Research. (Date not specified). Regional differences do matter. Retrieved fr
 Corsi, A., Mueller Loose, S., & Lockshin, L. (2012). The sales impact of regional and environmental in-store promotions. Wine & Viticulture Journal. Retrieved from https://www.marketingscience.info/wp-content/uploads/2016/07/Corsi-2012-WVJ-6400.pdf
 
 
-  ## Data description
+  # Data description
 Data for each visualization can be accessed in the Github Repo as .xls files
 The first dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download excel files with the following columns:
 1. Date: Week ending
@@ -40,10 +40,10 @@ The first dataset comes directly from “www.ers.usda.gov/data-products/weekly-r
 
 The second dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download excel files with the following columns:
 
-## Interpreting Visualizations
+# Interpreting Visualizations
 ![Dashboard 1](https://github.com/cedrichamilton/MGT4250-Fall-2023-Course-Project/assets/152214811/95b9e17b-8704-4a18-86f1-153f60fa8e6c)
 
-# Heatmap of Regional Sales
+## Heatmap of Regional Sales
 Description: A heatmap depicting sales volume across different regions. Darker shades indicate higher sales, and lighter shades show regions with fewer sales. This is used to answer our question by giving insights to sales per region broken down by states to see more or less sales by color. (Lighter green indicates less sales and darker blue indicates lots of sales).
 Interactivity: Hover over a region to see exact sales numbers.
 
