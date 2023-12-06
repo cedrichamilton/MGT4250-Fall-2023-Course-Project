@@ -47,12 +47,12 @@ The second dataset comes directly from “www.ers.usda.gov/data-products/weekly-
 Description: A heatmap depicting sales volume across different regions. Darker shades indicate higher sales, and lighter shades show regions with fewer sales. This is used to answer our question by giving insights to sales per region broken down by states to see more or less sales by color. (Lighter green indicates less sales and darker blue indicates lots of sales).
 Interactivity: Hover over a region to see exact sales numbers.
 
-### Horizontal Bar Chart of Total Unit Sales Per Category 
+### Total Sales Per Month by State
 Description: A multi-line chart where each line represents sales trends over time for a specific region.
 Interactivity: Toggle between different regions. Zoom in/out for detailed views of specific timeframes. This provides insight to our question by showing a visual on each category's sales in North America as a whole. By being able to see this is a grand view for North America we can have a rough sense of what sells well all over the country and what doesn't, without the breakdown by region or state.   
 
-### External Factors Influence Bar Graph
-Description: A grouped bar graph showing sales spikes (or dips) during specific external events like holidays, weather events, or local festivals. Wen breaking down the total sales per month by state we can differentiate each months sales by state giving double leverage into finding our more to our question and seeing if it can articulate answers around external factors that may exist for each state and month in that state. 
+### Total Sales Per Category
+Description: A bar graph showing sales spikes (or dips) during specific external events like holidays, weather events, or local festivals. Wen breaking down the total sales per month by state we can differentiate each months sales by state giving double leverage into finding our more to our question and seeing if it can articulate answers around external factors that may exist for each state and month in that state. 
 Interactivity: Filter by event type or by region.
 
 
