@@ -24,9 +24,21 @@ Corsi, A., Mueller Loose, S., & Lockshin, L. (2012). The sales impact of regiona
 
 
   ## Data description
+Data for each visualization can be accessed in the Github Repo as .xls files
+The first dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download excel files with the following columns:
+1. Date: Week ending
+2. State: State
+3. Category: Food category
+4. Dollars: Total value of sales
+5. Dollars last year: Total value of sales, same week last year
+6. Dollars 3 years ago: Total value of sales, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+7. Unit sales: Total units sold, any size
+8. Unit sales last year: Total units sold, any size, same week last year
+9. Unit sales 3 years ago: Total units sold, any size, same week 3 years ago (available starting May 2022 with data beginning October 3, 2021)
+10. Percent change dollars 1 year: Change in sales value since same week last year, as a percent of last year's sales value
+11. Percent change units 1 year: Change in units sold of any size since same week last year, as a percent of last year's units sold
 
-  2. Second reason
-  3. Third reason
+The second dataset comes directly from “www.ers.usda.gov/data-products/weekly-retail-food-sales/” Once accessing this link you are able to download excel files with the following columns:
 
 ## Interpreting Visualizations
 
