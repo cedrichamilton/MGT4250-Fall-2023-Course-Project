@@ -1,8 +1,6 @@
 # MGT4250 Fall 2023 Course Project
 Author: Cedric Hamilton, chamilton19@elon.edu
 
-Author: Max Tarricone, mtarricone@elon.edu
-
 # Project Description
 This repo is for the class project of MGT 4250 Fall 2023 at Elon University
 
